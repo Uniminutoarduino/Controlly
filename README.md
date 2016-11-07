@@ -4,7 +4,7 @@ dsPicBlocks V1.0 es un software que le permitira programar la familia de dsPIC 3
 
 # Modo de uso
 
-Para usar este programa observa el tutorial el cual se encuentra en los archivos del proyecto. Necesitarás Java JDK V1.8 para iniciar el programa. Descarga la carpeta dist, descomprimela y ejecuta el archivo controlly.jar. 
+Para usar este programa observa el tutorial el cual se encuentra en los archivos del proyecto. Necesitarás Java JDK V1.8 para iniciar el programa. Descarga la carpeta dist, descomprimela y ejecuta el archivo ControlBlocksV1.0.jar. 
 
 # Nota
 Todo el software usado en este proyecto es libre.
